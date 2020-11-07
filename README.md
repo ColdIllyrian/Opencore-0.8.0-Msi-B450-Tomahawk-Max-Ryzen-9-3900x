@@ -18,11 +18,11 @@
 - [x] Display Port output
 - [x] HEVC and H264 Encode for RX 590
 - [x] All USB ports at full speed (including USB-C)
-- [x] Sleep works
+- [x] Sleep 
+- [x] Jack Mic
 - [x] etc
 
 ## What's not Working?
-- [ ] Jack mic (common problem with AMD Hackintosh using AppleALC kext)
 - [ ] SideCar due to the lack of an iGPU
 - [ ] etc
 
