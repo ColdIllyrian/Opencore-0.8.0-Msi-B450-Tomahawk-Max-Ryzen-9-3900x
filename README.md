@@ -1,15 +1,24 @@
-# Hackintosh-AMD-Ryzen-6-3600-MSI-TOMAHAWK-B450-MAX
+# Hackintosh-AMD-Ryzen-5-3600-MSI-TOMAHAWK-B450-MAX
 - Hi Lads
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
 - From this repository you can download the EFI folder
 
+## Specs?
+CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
+  CPU Cooler : CoolerMaster liquid cooler 240mm
+ Motherboard : MSI tomahawk b450 max
+      Memory : HyperX LPX 24 GB (3x 8 GB) DDR4-3200 CL16 Memory
+     Storage : Toshiba  1tb HDD
+     Storage : ADATA XPG SX8200 500 GB M.2-2280 NVME Solid State Drive
+  Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
+  
 ## OpenCore Version?
 0.6.3
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
-- [x] Tested with macOS Mojave 10.14.6, Catalina from 10.15.4 to 10.15.7 and Big Sur Beta 6-7-8-9-10 and Release Candidate Version 
-- [x] QE/CI Graphics Of Sapphire Radeon RX 590
+- [x] Tested with macOS Mojave 10.14.6, Catalina from 10.15.4 to 10.15.7 and Big Sur Beta 6-7-8-9-10+ and Release Candidate Version 
+- [x] QE/CI Graphics Of RedDevil Powercolor Radeon RX 590
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
 - [x] HDMI Audio
