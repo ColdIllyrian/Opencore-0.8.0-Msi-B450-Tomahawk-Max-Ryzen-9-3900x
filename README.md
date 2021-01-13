@@ -13,7 +13,7 @@ CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
   Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
   
 ## OpenCore Version?
-0.6.3
+0.6.5
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
