@@ -13,7 +13,7 @@ CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
   Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
   
 ## OpenCore Version?
-0.6.5
+0.6.6
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
@@ -40,7 +40,7 @@ CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
 - [Acidanthera](https://github.com/acidanthera) for too many things to mention each, starting from Opencore bootloader to a lot of crucial kexts...
 - [CorpNewt](https://github.com/corpnewt) for ProperTree and GenSMBIOS scripts
 - [Trulyspinach](https://github.com/trulyspinach) for SMCAMDProcessor.kext, AMDRyzenCPUPowerManagement.kext and AMD Power Gadget app.
-- [chris1111](https://github.com/chris1111) for the Opencore theme which I used in this EFI folder
+- [chris1111](https://github.com/chris1111) for the Opencore Modern theme which I used in this EFI folder 
 - [fill0r4](https://github.com/fill0r4) for half of his entire opencore layout of 0.6.2
 
 And to a few others to get everything working :)
