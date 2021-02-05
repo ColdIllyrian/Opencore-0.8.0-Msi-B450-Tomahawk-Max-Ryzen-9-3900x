@@ -1134,12 +1134,49 @@
 				/////wAAAP///wA=
 				</data>
 				<key>MaxKernel</key>
-				<string>20.99.99</string>
+				<string>20.3.0</string>
 				<key>MinKernel</key>
 				<string>17.0.0</string>
 				<key>Replace</key>
 				<data>
 				u7xP6njpXQAAAJA=
+				</data>
+				<key>ReplaceMask</key>
+				<data>
+				</data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Base</key>
+				<string></string>
+				<key>Comment</key>
+				<string>DhinakG - cpuid_set_cpufamily - force CPUFAMILY_INTEL_PENRYN - 11.3b1</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				MdIAAIA9AAAAAAZ1AA==
+				</data>
+				<key>Identifier</key>
+				<string>kernel</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data>
+				//8AAP//AAAA////AA==
+				</data>
+				<key>MaxKernel</key>
+				<string>20.99.99</string>
+				<key>MinKernel</key>
+				<string>20.4.0</string>
+				<key>Replace</key>
+				<data>
+				swG6vE/qeOldAAAAkA==
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -2170,13 +2207,13 @@
 		<key>Automatic</key>
 		<true/>
 		<key>CustomMemory</key>
-		<false/>
+		<true/>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>F5K934700GUFHDD1F</string>
 			<key>ROM</key>
 			<data>
 			ESIzAAAA
@@ -2186,9 +2223,245 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>F5KZ8YYAP7QM</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>209E4A46-42B3-4E70-855C-0FF187ED3E00</string>
+		</dict>
+		<key>Memory</key>
+		<dict>
+			<key>DataWidth</key>
+			<integer>64</integer>
+			<key>Devices</key>
+			<array>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL A</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0</string>
+					<key>Manufacturer</key>
+					<string>Kingston</string>
+					<key>PartNumber</key>
+					<string>KHX3200C16D4/8GX</string>
+					<key>SerialNumber</key>
+					<string>EA922EE5</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL A</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Kingston</string>
+					<key>PartNumber</key>
+					<string>KHX3200C16D4/8GX</string>
+					<key>SerialNumber</key>
+					<string>0CD22EE5</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL B</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0</string>
+					<key>Manufacturer</key>
+					<string>shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL B </string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Kingston </string>
+					<key>PartNumber</key>
+					<string>KHX3200C16D4/8GX</string>
+					<key>SerialNumber</key>
+					<string>F086DCFA</string>
+					<key>Size</key>
+					<integer>8192</integer>
+					<key>Speed</key>
+					<integer>3200</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL C</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0 </string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL C</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL D</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL D</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL E</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL E</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL F</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 0 </string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+				<dict>
+					<key>AssetTag</key>
+					<string></string>
+					<key>BankLocator</key>
+					<string>P0 CHANNEL F</string>
+					<key>DeviceLocator</key>
+					<string>DIMM 1</string>
+					<key>Manufacturer</key>
+					<string>Shqipe</string>
+					<key>PartNumber</key>
+					<string>0</string>
+					<key>SerialNumber</key>
+					<string>0</string>
+					<key>Size</key>
+					<integer>1</integer>
+					<key>Speed</key>
+					<integer>1</integer>
+				</dict>
+			</array>
+			<key>ErrorCorrection</key>
+			<integer>3</integer>
+			<key>FormFactor</key>
+			<integer>9</integer>
+			<key>MaxCapacity</key>
+			<integer>25769803776</integer>
+			<key>TotalWidth</key>
+			<integer>64</integer>
+			<key>Type</key>
+			<integer>26</integer>
+			<key>TypeDetail</key>
+			<integer>27</integer>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
