@@ -13,11 +13,11 @@ CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
   Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
   
 ## OpenCore Version?
-0.6.6
+0.6.7
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
-- [x] Working with latest BigSur 11.1+
+- [x] Working with latest BigSur 11.3 Beta 1
 - [x] QE/CI Graphics Of RedDevil Powercolor Radeon RX 590
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
