@@ -1,16 +1,18 @@
-# Hackintosh-AMD-Ryzen-5-3600-MSI-TOMAHAWK-B450-MAX
+# Hackintosh-AMD-Ryzen-9-3900x-MSI-TOMAHAWK-B450-MAX
 - Hi Lads
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
 - From this repository you can download the EFI folder
 
 ## Specs?
-CPU : AMD Ryzen 5 3600 3.6 GHz 6-Core Processor
+CPU : AMD Ryzen 9 3900x 3.8-4.6 GHz 12-Core Processor
   CPU Cooler : CoolerMaster liquid cooler 240mm
  Motherboard : MSI tomahawk b450 max
       Memory : HyperX LPX 24 GB (3x 8 GB) DDR4-3200 CL16 Memory
-     Storage : Toshiba  1tb HDD
-     Storage : ADATA XPG SX8200 500 GB M.2-2280 NVME Solid State Drive
+     Storage : Toshiba DT01ACA100 1tb HDD
+     Storage : ADATA SX6000PNP 500 GB M.2-2280 NVME Solid State Drive
+     Storage : KIOXIA-EXERIA SATA SSD 240 GB
   Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
+  Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
   
 ## OpenCore Version?
 0.6.7
