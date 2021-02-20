@@ -37,6 +37,9 @@ CPU : AMD Ryzen 9 3900x 3.8-4.6 GHz 12-Core Processor
 - [ ] SideCar due to the lack of an iGPU
 - [ ] etc
 
+## Feel free to paypal:
+https://www.paypal.com/paypalme/drtechlc
+
 ## Credits
 - [Dortania](https://github.com/dortania) for the Opencore Desktop Guide
 - [Acidanthera](https://github.com/acidanthera) for too many things to mention each, starting from Opencore bootloader to a lot of crucial kexts...
