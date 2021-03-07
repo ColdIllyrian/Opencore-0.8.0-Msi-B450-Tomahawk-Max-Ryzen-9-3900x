@@ -11,7 +11,7 @@ CPU : AMD Ryzen 9 3900x 3.8-4.6 GHz 12-Core Processor
      Storage : Seagat Barracuda 2tb HDD
      Storage : ADATA SX6000PNP 500 GB M.2-2280 NVME Solid State Drive
      Storage : KIOXIA-EXERIA SATA SSD 240 GB
-  Video Card : XFX Fatboy RX 590 converted to a RedDevil Powercolor RX 590 8 GB Video Card
+  Video Card : XFX Fatboy RX 590 converted to a Sapphire (Nitro+ Special) RX 590 8 GB Video Card
   Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
   
 ## OpenCore Version?
