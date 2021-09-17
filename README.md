@@ -15,7 +15,7 @@
 - Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
   
 ## OpenCore Version?
-0.7.0
+0.7.3
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
