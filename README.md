@@ -15,11 +15,11 @@
 - Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
   
 ## OpenCore Version?
-0.7.3
+0.7.4
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
-- [x] Working with latest Monterey 12.0 Beta 1 (only)
+- [x] Working with latest Monterey 12.0.1 RC
 - [x] QE/CI Graphics Of RedDevil Powercolor Radeon RX 590
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
