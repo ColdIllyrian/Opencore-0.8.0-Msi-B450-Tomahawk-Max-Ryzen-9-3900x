@@ -1201,7 +1201,7 @@
 			<key>PickerMode</key>
 			<string>External</string>
 			<key>PickerVariant</key>
-			<string>Auto</string>
+			<string>chris1111\Minimal</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -1417,12 +1417,12 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02051404GUJG36CB</string>
+			<string>C02723501QXJG36JC</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			8Nzi8eRs
+			9De3QQpv
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1431,9 +1431,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02DVVZZHX87</string>
+			<string>C02TT7ZZHX87</string>
 			<key>SystemUUID</key>
-			<string>1809B146-BDFA-4852-9F58-C63558774D23</string>
+			<string>17107F1B-EE60-4E14-9395-A442F7F10D50</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1534,6 +1534,16 @@
 				<true/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
 			</dict>
 		</array>
 		<key>Input</key>
