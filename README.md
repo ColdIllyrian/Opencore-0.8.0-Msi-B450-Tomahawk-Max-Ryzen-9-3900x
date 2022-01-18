@@ -1,21 +1,23 @@
+# Forked and edited from [HERE](https://github.com/QuantumShqipe/Opencore-0.7.4-Msi-B450-Tomahawk-Max-Ryzen-9-3900x)
+
+
 # Hackintosh-AMD-Ryzen-9-3900x-MSI-TOMAHAWK-B450-MAX
 - Hi Lads
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
 - From this repository you can download the EFI folder
 
 ## Specs?
-- CPU : AMD Ryzen 9 3900x 3.8-4.6 GHz 12-Core Processor
-- CPU Cooler : CoolerMaster liquid cooler 240mm
+- CPU : AMD Ryzen 5 3600 12-Core Processor
+- CPU Cooler : Stock Cooler
 - Motherboard : MSI Tomahawk B450 Max Bios v390
-- Memory : HyperX LPX 24 GB (3x 8 GB) DDR4-3200 CL16 Memory
-- Storage : Seagat Barracuda 2tb HDD
-- Storage : ADATA SX6000PNP 500 GB M.2-2280 NVME Solid State Drive
-- Storage : KIOXIA-EXERIA SATA SSD 240 GB
-- Video Card : XFX Fatboy RX 590 converted to a Sapphire (Nitro+ Special) RX 590 8 GB Video Card
-- Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
+- Memory : HyperX LPX 16 GB (2x 8 GB) DDR4-3400 (Overclocked from 2666) CL16 Memory
+- Storage : A lot of storage :) 6/6 sata ports are filled up.
+- Video Card : MSI MECH 5500 xt 4GB
+- Wifi Card : Not have but this one works, TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
+- Bluetooth : Tp-link UB400
   
 ## OpenCore Version?
-0.7.4
+0.7.7
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
