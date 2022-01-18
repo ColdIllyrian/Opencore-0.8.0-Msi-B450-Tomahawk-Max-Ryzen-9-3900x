@@ -2,7 +2,6 @@
 
 
 # Hackintosh-AMD-Ryzen-9-3900x-MSI-TOMAHAWK-B450-MAX
-- Hi Lads
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
 - From this repository you can download the EFI folder
 
@@ -39,9 +38,6 @@
 ## What's not Working?
 - [ ] SideCar due to the lack of an iGPU
 - [ ] etc
-
-## Feel free to paypal:
-https://www.paypal.com/paypalme/drtechlc
 
 ## Credits
 - [Dortania](https://github.com/dortania) for the Opencore Desktop Guide
