@@ -1343,7 +1343,7 @@
 				<string>keepsyms=1 alcid=1 npci=0x2000 -lilubetaall -alcbeta agdpmod=pikera</string>
 				<key>csr-active-config</key>
 				<data>
-				AAAAAA==
+				/w8AAA==
 				</data>
 				<key>prev-lang:kbd</key>
 				<data>
@@ -1417,12 +1417,12 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02723501QXJG36JC</string>
+			<string>C02817200QXJG36FB</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			9De3QQpv
+			lOlqflTC
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1431,9 +1431,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02TT7ZZHX87</string>
+			<string>C02WM3ZFHX87</string>
 			<key>SystemUUID</key>
-			<string>17107F1B-EE60-4E14-9395-A442F7F10D50</string>
+			<string>3C1DA2D5-2105-4245-BA3E-C1FCCEDA2157</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
