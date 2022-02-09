@@ -9,14 +9,14 @@
 - CPU : AMD Ryzen 5 3600 12-Core Processor
 - CPU Cooler : Stock Cooler
 - Motherboard : MSI Tomahawk B450 Max Bios v390
-- Memory : HyperX LPX 16 GB (2x 8 GB) DDR4-3400 (Overclocked from 2666) CL16 Memory
+- Memory : 16 GB (2x 8 GB) DDR4-3600 (Overclocked from 2666) CL16 Memory
 - Storage : A lot of storage :) 6/6 sata ports are filled up.
 - Video Card : MSI MECH 5500 xt 4GB
 - Wifi Card : Not have but this one works, TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
 - Bluetooth : Tp-link UB400
   
 ## OpenCore Version?
-0.7.7
+0.7.8
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
