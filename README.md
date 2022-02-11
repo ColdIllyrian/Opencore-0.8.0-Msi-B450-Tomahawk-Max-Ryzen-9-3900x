@@ -21,7 +21,7 @@
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
 - [x] Bluetooth and ethernet
-- [x] Working with latest Monterey 12.2
+- [x] Working with latest Monterey 12.2.1
 - [x] QE/CI Graphics Of RedDevil Powercolor Radeon RX 590
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
