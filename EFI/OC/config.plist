@@ -1270,7 +1270,7 @@
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
-			<integer>6</integer>
+			<integer>14</integer>
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
@@ -1417,12 +1417,12 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02134310CDJG36JC</string>
+			<string>C02929306GUJG36JC</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
 			<data>
-			yGnNf5o+
+			LL4IQj1I
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
@@ -1431,9 +1431,9 @@
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02G8BYXHX87</string>
+			<string>C02Z3NZSHX87</string>
 			<key>SystemUUID</key>
-			<string>9651F837-4268-410F-A80D-6EF2C733B5E6</string>
+			<string>A64F582B-ADA8-40A2-82F0-0601AA0B1270</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

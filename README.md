@@ -1,5 +1,6 @@
 # Forked and edited from [HERE](https://github.com/QuantumShqipe/Opencore-0.7.4-Msi-B450-Tomahawk-Max-Ryzen-9-3900x)
 
+![image info](./SCREENSHOOTS/AmdCPUManagement.png)
 
 # Hackintosh-AMD-Ryzen-9-3900x-MSI-TOMAHAWK-B450-MAX
 - This is the repository of my main system based on Msi B450 Tomahawk MAX.
