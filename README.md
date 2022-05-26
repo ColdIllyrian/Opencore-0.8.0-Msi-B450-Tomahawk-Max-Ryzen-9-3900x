@@ -12,16 +12,16 @@
 - Storage : ADATA SX6000PNP 500 GB M.2-2280 NVME Solid State Drive
 - Storage : KIOXIA-EXERIA SATA SSD 240 GB
 - Video Card : XFX Fatboy RX 590 converted to a Sapphire (Nitro+ Special) RX 590 8 GB Video Card
-- Wifi Card : TP-LINK Archer T6E AC1300 Wireless Dual Band PCI Express Adapter
+- Wifi Card & Bluetooth Card : MQUPIN Fenvi T919 PCIE Wireless Card
   
 ## OpenCore Version?
-0.7.4
+0.8.0
 
 ## What's Working?
 - [x] WIFI AirportBrcmFixup Fixed :)
 - [x] Bluetooth and ethernet
-- [x] Working with latest Monterey 12.0.1 RC
-- [x] QE/CI Graphics Of RedDevil Powercolor Radeon RX 590
+- [x] Working with latest Monterey 12.4
+- [x] QE/CI Graphics Of Sapphire (Nitro+ Special) RX 590 
 - [x] Restart and Shutdown. 
 - [x] Rear Jack (Green) + Front Speaker Jack (Headphone)
 - [x] HDMI Audio
